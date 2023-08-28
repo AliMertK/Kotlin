@@ -1,0 +1,2 @@
+# Veriable-String
+ Kotlin-Çalışma
